@@ -32,7 +32,7 @@ const Header = () => {
         <AppBar position="static" className={classes.appstyle}>
           <Toolbar>
             <Typography variant="h4" className={classes.title}>
-              Sigfig RPT
+              XEMES RPT
             </Typography>
           </Toolbar>
         </AppBar>
